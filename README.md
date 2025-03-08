@@ -2,8 +2,13 @@
 
 A decentralized platform for hospital services built with React and integrated with the Hive blockchain. This application allows users to access healthcare news, support healthcare initiatives through transparent donations, and participate in community updates.
 
-![image](https://github.com/user-attachments/assets/c1d382df-0761-47b8-a686-79472c27dc49)
-![image](https://github.com/user-attachments/assets/13a9432d-107e-4b07-a3ec-2ec6f26df94c)
+![Screenshot 2025-03-08 195221](https://github.com/user-attachments/assets/c4fa4fbf-75be-4cea-afbd-9970827aaccc)
+![Screenshot 2025-03-08 195221](https://github.com/user-attachments/assets/33f60dbf-e0b5-4d9c-8212-7b9d08c559ce)
+![Screenshot 2025-03-08 201319](https://github.com/user-attachments/assets/f3b4358f-0441-4b04-8236-d01d74e92f65)
+![Screenshot 2025-03-08 201408](https://github.com/user-attachments/assets/a1424736-6008-4ff3-98c2-5cd5149fdc34)
+
+
+
 
 
 ## 🌟 Features
